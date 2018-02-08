@@ -10,4 +10,4 @@ instagram_username: Longdinh_
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-merlot
